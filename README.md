@@ -59,6 +59,7 @@ MCP is an open protocol that standardizes how AI applications connect to externa
 - [Klavis AI](https://github.com/Klavis-AI/klavis) - MCP integration platform that lets AI agents use tools reliably at scale. ![GitHub Repo stars](https://img.shields.io/github/stars/Klavis-AI/klavis?style=flat)
 - [Activepieces](https://github.com/activepieces/activepieces) - AI workflow automation platform with native MCP support and 400+ integrations. ![GitHub Repo stars](https://img.shields.io/github/stars/activepieces/activepieces?style=flat)
 - [Composio](https://github.com/ComposioHQ/composio) - Tool-use platform with 1000+ toolkits, auth handling, and a unified MCP interface for agents. ![GitHub Repo stars](https://img.shields.io/github/stars/ComposioHQ/composio?style=flat)
+- [xmcp](https://github.com/basementstudio/xmcp) - TypeScript framework for building MCP servers with file-based tools, resources, prompts, hot reload, and deployment adapters. ![GitHub Repo stars](https://img.shields.io/github/stars/basementstudio/xmcp?style=flat)
 
 ## Server Implementations
 
